@@ -1,2 +1,6 @@
 /Resources/
 /Natours/node_modules/
+/Natours/css/styles.comp.css
+/Natours/css/styles.concat.css
+/Natours/css/styles.prefix.css
+/Natours/css/styles.comp.css.map
